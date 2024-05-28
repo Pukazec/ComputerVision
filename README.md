@@ -1,0 +1,1 @@
+Before starting extract zip contents
